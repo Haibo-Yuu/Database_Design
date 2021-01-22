@@ -1,4 +1,6 @@
 # Database_Design
+## Not all files were included in the repository due to system issues
+
 This Readme file includes 5 questions and corresponding answers:
 
 Question1: How to collect data?
